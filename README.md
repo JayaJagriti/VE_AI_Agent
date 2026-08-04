@@ -1,3 +1,7 @@
+# VirtualEmployee AI Requirement Discovery Agent
+
+🚀 **Live Demo:** https://veaiagent-10.streamlit.app
+
 # VE Requirement Discovery Agent
 
 An AI chat agent for Virtual Employee that:

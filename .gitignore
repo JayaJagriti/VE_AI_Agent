@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/vector_store/*
+!data/vector_store/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+.streamlit/secrets.toml
